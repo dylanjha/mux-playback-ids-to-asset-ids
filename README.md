@@ -16,3 +16,8 @@ This will create a file called `playback_ids.json`. It will look like this:
 
 Note that an asset can have multiple playback ids, and therefore, you might
 have multiple different playback ids that point to the same asset.
+
+# How it works
+
+This will request all of your assets from Mux, one page at a time and map
+all the playback ids to their assets
