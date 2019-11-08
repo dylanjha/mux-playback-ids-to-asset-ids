@@ -1,0 +1,9 @@
+{
+  "name": "mux-playback-ids-to-asset-ids",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mux/mux-node": "^2.4.0"
+  }
+}
