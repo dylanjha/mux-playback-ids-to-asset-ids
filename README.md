@@ -1,8 +1,8 @@
-# Map playback ids to assets
-
-## [DEPRECATED]
+# [DEPRECATED]
 
 This is no longer needed, Mux added an endpoint to look up a playback ID and retrieve the asset ID or live stream ID. See more here: https://docs.mux.com/api-reference/video#operation/get-asset-or-livestream-id
+
+## Map playback ids to assets
 
 ```
 MUX_TOKEN_ID=xxx MUX_TOKEN_SECRET=xx yarn start
